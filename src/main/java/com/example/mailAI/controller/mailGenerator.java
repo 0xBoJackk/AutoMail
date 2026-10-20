@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/api/mail")
 public class mailGenerator {
 
-     public ResponseEntity<String> genMail (@RequestBody EmailReq mailreq){
+     public ResponseEntity<String> genMail (@RequestBody EmailReq emailReq){
 
          return ResponseEntity.ok("");
 
