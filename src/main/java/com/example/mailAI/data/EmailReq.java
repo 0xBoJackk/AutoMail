@@ -1,4 +1,4 @@
-package com.example.mailAI.controller;
+package com.example.mailAI.data;
 
 
 import lombok.Data;
